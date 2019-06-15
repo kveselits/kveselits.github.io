@@ -8,13 +8,13 @@
 
 [Automatic City Name Capitalization](https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AutomaticCapitalization.py#L11-L35)
 ---
-<img src="https://api.miniature.io/?url=https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AutomaticCapitalization.py#L11-L35" />
+<a href="https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AutomaticCapitalization.py#L11-L35"><img src="https://api.miniature.io/?url=https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AutomaticCapitalization.py#L11-L35" /></a>
 
 ---
 
-[Databse Address Corrector](https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AddressCorrector.py#L1-L42)
+[Database Address Corrector](https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AddressCorrector.py#L1-L42)
 ---
-<img src="https://api.miniature.io/?url=https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AddressCorrector.py#L1-L42" />
+<a href="https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AddressCorrector.py#L1-L42"><img src="https://api.miniature.io/?url=https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AddressCorrector.py#L1-L42" /></a>
 
 ---
 
