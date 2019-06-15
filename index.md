@@ -8,7 +8,6 @@
 [Automatic City Name Capitalization](https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AutomaticCapitalization.py#L11-L35)
 <img src="https://api.miniature.io/?url=https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AutomaticCapitalization.py#L11-L35" />
 
-
 ---
 [Databse Address Corrector](https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AddressCorrector.py#L1-L42)
 <img src="https://api.miniature.io/?url=https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AddressCorrector.py#L1-L42" />
@@ -16,6 +15,7 @@
 ---
 [Embedded JavaScript ArcGIS Web Map/App](http://arcg.is/0v0PK8)
 <iframe width='100%' height='640px' src='http://www.arcgis.com/apps/View/index.html?appid=53543450b4c44979833db0ae4276696e&extent=-117.7035,47.4374,-117.4460,47.5406' frameborder='0' scrolling='no'></iframe>
+
 ---
 
 ### More Python Scripts/Field Calculator and Toolbox Example
