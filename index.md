@@ -2,17 +2,15 @@
 
 ---
 
-### Category Name 1 
+### Python Scripts/Web Based Maps
 
 
-[Automatic City Name Capitalization]
-(https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AutomaticCapitalization.py#L11-L35)
+[Automatic City Name Capitalization](https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AutomaticCapitalization.py#L11-L35)
 <img src="https://api.miniature.io/?url=https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AutomaticCapitalization.py#L11-L35" />
 
 
 ---
-[Databse address corerector]
-(https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AddressCorrector.py#L1-L42)
+[Databse Address Corrector](https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AddressCorrector.py#L1-L42)
 <img src="https://api.miniature.io/?url=https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AddressCorrector.py#L1-L42" />
 
 ---
@@ -20,7 +18,7 @@
 <img src="https://api.miniature.io/?url=ubuntu.com" />
 ---
 
-### Category Name 2
+### More Python Scripts/Field Calculator and Toolbox Example
 
 - [Generate Random Numbers Using Field Calculator](https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/randInt.cal#L1-L8)
 - [Basic Python Toolbox Example](https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/ToolBoxPractice.py#L1-L10)
