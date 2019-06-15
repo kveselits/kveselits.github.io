@@ -6,17 +6,16 @@
 
 
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://api.miniature.io/?url=ubuntu.com" />
 
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="<img src="https://api.miniature.io/?url=ubuntu.com" />"/>
+<img src="https://api.miniature.io/?url=ubuntu.com" />
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<img src="https://api.miniature.io/?url=ubuntu.com" />
 ---
 
 ### Category Name 2
