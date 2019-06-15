@@ -4,12 +4,14 @@
 
 ### Category Name 1 
 
-[Project 1 Title](https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AutomaticCapitalization.py#L11-L35)
-<img src="http://api.s-shot.ru/?=(https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AutomaticCapitalization.py#L11-L35)"/>
+
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="<img src="https://api.miniature.io/?url=ubuntu.com" />"/>
 
 ---
 [Project 3 Title](http://example.com/)
