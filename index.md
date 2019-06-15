@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 
-[Project 3 Title](http://example.com/)
+[Project 3 Title](https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AutomaticCapitalization.py#L11-L35)
 <img src="https://api.miniature.io/?url=https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AutomaticCapitalization.py#L11-L35" />
 
 
