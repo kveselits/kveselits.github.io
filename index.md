@@ -14,8 +14,8 @@
 <img src="https://api.miniature.io/?url=https://github.com/kveselits/GIS-Programming/blob/9e06ba03e68c7704759f361cb532478d34407c84/AddressCorrector.py#L1-L42" />
 
 ---
-[Embedded JavaScript ArcGIS Web Map/App](http://arcg.is/1HfDbb)
-<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Basic Web Map" src="//www.arcgis.com/apps/Embed/index.html?webmap=77d7e02da21840d1b752df73157bb3c8&extent=-117.6241,47.4664,-117.5254,47.5116&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
+[Embedded JavaScript ArcGIS Web Map/App](http://arcg.is/0v0PK8)
+<iframe width='100%' height='640px' src='http://www.arcgis.com/apps/View/index.html?appid=53543450b4c44979833db0ae4276696e&extent=-117.7035,47.4374,-117.4460,47.5406' frameborder='0' scrolling='no'></iframe>
 ---
 
 ### More Python Scripts/Field Calculator and Toolbox Example
